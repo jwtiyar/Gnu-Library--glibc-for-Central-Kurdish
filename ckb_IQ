@@ -26,7 +26,7 @@ escape_char /
 % March 2011 fixing all bugs
 % September 2014: fixing alphabet and Unicode bugs
 % October 2014: fixing address and fmt_name issues
-% February 2020: Re-writing whole code, pushing to glibc 2.32.
+% February 2020: Re-writing whole code, Pushing to glibc 2.32.
 
 LC_IDENTIFICATION
 title	   "Central Kurdish language locale for Iraq"
