@@ -1,5 +1,5 @@
 # Localedata
-Localedata for linux systems was not available to Central Kurdish (Sorani), The project was started in 2009 by our friend Aras Noori, There was errors while compiling it, In 2019 I did add new patch to make it work and was a very good start point to the project, Afterwards we got help from @MikeFabian from @RedHat And @Gunnar from @Ubuntu-Translators, Their work was very appreciated.
+Localedata for linux systems was not available to Central Kurdish (Sorani), The project was started in 2009 by our friend Aras Noori, There was errors while compiling it, In 2019 I did add new patch to make it work and was a very good start point to the project, Afterwards we got help from @mike-fabian from @RedHat And @Gunnar from @Ubuntu-Translators, Their work was very appreciated.
 From glibc 2.32 locale for central kurdish (ckb) is available.
 
 # Gnu-Library--glibc-for-Central-Kurdish
